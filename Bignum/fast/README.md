@@ -2,13 +2,6 @@
 
 Fast Bignum package with fast performance and performance optimization. Includes C++ STL optimizations, compiler optimizations, parallel-computing/multi-threading.
 
-## Pre-requisites
-
-- Linux(Ubuntu 18.04/20.04/Debian)
-- g++
-- C++ 17
-- gprof
-
 ## Usage
 
 - Compile using provided shell script
