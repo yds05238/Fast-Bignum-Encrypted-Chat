@@ -33,5 +33,12 @@ Basic Bignum package with slow performance and limited performance optimization.
 
 ## TODO
 
-- Add AES Encryption/Decryption
+- RSA Key generation (2048 bits)
+- RSA InitLoadServer(server_public, server_private, client_public)
+- RSA encrypt(public_key, message)
+- RSA decrypt(private_key, message)
+- AES Key generation (256 bits)
+- AES encrypt(key, iv, text)
+- AES decrypt(key, text)
+- AES createmessage(key, message)
 - Add Unit Testing
